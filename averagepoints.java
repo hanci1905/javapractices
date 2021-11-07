@@ -25,4 +25,6 @@ public class first {
         int sum =math+physics+chemistry+turkish+history+music;
         double average=sum/6.0;
         System.out.println(average);
+        String result =(average>60) ? "Gecti" : "Kaldi";
+        System.out.println(result);
     }}
