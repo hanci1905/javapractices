@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class hipotenus {
+public class areaTriangle {
     public static void main( String [] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("enter first side of trianlgle");
