@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class first {
+public class averagepoints {
     public static void main( String [] args){
         int math,physics,music,turkish,history,chemistry;
         System.out.print("enter math points");
