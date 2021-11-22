@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class priceoftaxi {
+public class taxiprice {
     public static void main( String [] args) {
 
         double price;
